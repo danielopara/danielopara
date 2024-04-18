@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://danielukaji.netlify.app/)
 <h1 align="center">Hi 👋, I'm Daniel Opara</h1>
-<h3 align="center">I am a backend developer from Nigeria. I am proficient in Spring Boot, NodeJs, Express, MongoDB, Firebase, ReactJs, and MySQL. I am a quick learner and always eager to take on new challenges.</h3>
+<h3 align="center">I am a backend developer from Nigeria. I am proficient in Spring Boot, NodeJs, Express, MongoDB, Firebase, and MySQL. I am a quick learner and always eager to take on new challenges.</h3>
 <img align="right" alt="code" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielopara&label=Profile%20views&color=0e75b6&style=flat" alt="danielopara" /> </p>
