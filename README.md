@@ -7,7 +7,6 @@
   I specialize in building robust backend systems using Spring Boot, Node.js, Express, MongoDB, Firebase, and MySQL. I'm passionate about learning new technologies and tackling challenging projects.
 </p>
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=danielopara&label=Profile%20views&color=0e75b6&style=flat" alt="danielopara" />
@@ -21,9 +20,6 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
@@ -47,22 +43,24 @@
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielopara&layout=compact&theme=merko" alt="Top Languages" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielopara&layout=compact&theme=merko" alt="Top Languages" width="350" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielopara&show_icons=true&theme=merko" alt="GitHub Stats" />
+<p>&nbsp;
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=danielopara&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielopara&theme=merko" alt="GitHub Streak" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielopara&theme=merko" alt="GitHub Streak" width="600" />
 </p>
 
 ## 🔥 Current Projects
+- 🔭 **Improving my Spring Boot skills and typescript**
+- 💻 **Currently working on a social-media-api developed with Spring framework**
 
-- 🔭 **Improving my Spring Boot skills**
-- 💬 **Ask me about Node.js, Express, and Spring**
+## 🧍‍♂️ About me 
+
 - ⚡ **Fun Fact:** I love football and music
 
 ## 📫 How to Reach Me
