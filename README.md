@@ -71,7 +71,7 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/danielopara" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/ifeanyi-opara" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/danielopara" target="_blank" rel="noreferrer">
