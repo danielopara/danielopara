@@ -77,7 +77,7 @@
   <a href="https://github.com/danielopara" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/danielopara" target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/_NameIsDaniel_" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
