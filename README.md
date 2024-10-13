@@ -66,7 +66,7 @@
 ## 📫 How to Reach Me
 
 - **Email:** [oparadaniv@gmail.com](mailto:oparadaniv@gmail.com)
-- **LinkedIn:** [linkedin.com/in/danielopara](https://linkedin.com/in/danielopara)
+- **LinkedIn:** [linkedin.com/in/ifeanyi-opara](https://linkedin.com/in/ifeanyi-opara)
 
 ## 🤝 Connect with Me
 
