@@ -66,12 +66,12 @@
 ## 📫 How to Reach Me
 
 - **Email:** [oparadaniv@gmail.com](mailto:oparadaniv@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ifeanyi-opara](https://linkedin.com/in/ifeanyi-opara)
+- **LinkedIn:** [linkedin.com/in/ifeanyi-opara](https://www.linkedin.com/in/ifeanyi-opara-06a3a3247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ifeanyi-opara" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/ifeanyi-opara-06a3a3247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/danielopara" target="_blank" rel="noreferrer">
