@@ -4,7 +4,7 @@
 <h3 align="center">A Backend Developer from Nigeria</h3>
 
 <p align="center">
-  I specialize in building robust backend systems using Spring Boot, Node.js, Express, MongoDB, Firebase, and MySQL. I'm passionate about learning new technologies and tackling challenging projects.
+  I specialize in building robust backend systems using Spring Boot, Django, Node.js, Express, MongoDB, Firebase, and MySQL. I'm passionate about learning new technologies and tackling challenging projects.
 </p>
 
 
@@ -42,7 +42,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  </a>
 </p>
+
 
 ## 📈 GitHub Stats
 
