@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)]
+![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
 <h1 align="center">Hi 👋, I'm Daniel Opara</h1>
 <h3 align="center">A Backend Developer from Nigeria</h3>
@@ -51,20 +51,21 @@
 </p>
 
 
-## 📈 GitHub Stats
+## 📈 GitHub Commits
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielopara&layout=compact&theme=merko" alt="Top Languages" width="350" />
 </p>
 
 <p>&nbsp;
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=danielopara&show_icons=true&theme=merko" alt="GitHub Stats" />
-</p>
+</p> -->
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielopara&theme=merko" alt="GitHub Streak" width="600" />
-</p>
+<!-- <p align="center"></p> -->
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielopara&theme=merko&hide_rank=true&v=3)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielopara&theme=merko)
 ## 🔥 Current Projects
 - 🔭 **Improving my Spring Boot skills and typescript**
 - 💻 **Currently working on a social-media-api developed with Spring framework**
